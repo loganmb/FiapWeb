@@ -1,0 +1,58 @@
+WEB MODERNA 34SCJ - SABADO, 08/06/2019
+
+FÓRUM, DÚVIDAS E SUGESTÕES (ANÔNIMAS OU NÃO)
+https://forms.gle/fNbKJT8CW7UFiNXv7 ç
+
+Material Introdução WEB MODERNA com animações:
+https://docs.google.com/presentation/d/e/2PACX-1vR5F971OkuBcLhF4n0ksjtrupvAMDgtHeaPXGbagmAi3EddSMqTirWpKV4zzzUzFTqX0sGxNQFgT6G-/pub?start=false&loop=false&delayms=3000
+
+ENVIAR RESENHA PARA: vitoriano08@gmail.com até 11/06(...?)
+
+Sites de Desenvolvimento:
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/
+https://caniuse.com/
+
+Teria como subir a resenha no próprio portal da FIAP, como trabalho parcial?
+bate uma palma!
+
+
+links uteis:
+https://imasters.com.br/front-end/ux-ui-e-front-end 
+https://link.medium.com/nrZtNqlOlX
+https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request
+
+Curso Frontend basico Fe Bernardo
+https://www.udemy.com/frontend-basico-do-zero-a-uma-pagina-com-html-e-css/
+bit.ly/front-basico
+https://www.udemy.com/curso-javascript-ninja/
+https://www.udemy.com/curso-reactjs-ninja/
+
+https://validator.w3.org/nu/
+
+<font face="verdana" color="green">This is some text!</font>
+
+<svg version="1.1" baseProfile="full" width="300" height="200" xmlns="http://www.w3.org/2000/svg"> 
+<rect width="100%" height="100%" fill="black" /> 
+<circle cx="150" cy="100" r="90" fill="blue" /> 
+</svg>
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.moveTo(0,0);
+ctx.lineTo(200,100);
+ctx.stroke();
+</script>
+
+Flexbox em portugues
+https://origamid.com/projetos/flexbox-guia-completo/
+
+
+Exercício:
+https://github.com/danvitoriano/web_moderna_html_css_34scj
+
